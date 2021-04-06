@@ -1,2 +1,5 @@
 # hello-world
-Say Hello to everyone
+
+Hey, Longlegmonkey here. I am learning C programming and python.
+
+Cheers!
